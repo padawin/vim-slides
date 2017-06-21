@@ -16,4 +16,4 @@ To go the next slide:
 
 ## Color Scheme
 
-Uses newproggie colorscheme: [http://vimcolors.com/648/newproggie/dark]
+Uses [newproggie](http://vimcolors.com/648/newproggie/dark) colorscheme.
