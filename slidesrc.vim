@@ -18,7 +18,5 @@ filetype plugin indent on
 
 let mapleader=' '
 
-nnoremap : ;
-nnoremap ; :
 nnoremap <leader>s :bnext<CR>
 nnoremap <leader>a :bprevious<CR>
