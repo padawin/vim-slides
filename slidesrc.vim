@@ -12,10 +12,13 @@ set statusline+=%=[%{strlen(&ft)?&ft:'none'}\  " filetype
 set statusline+=%{strlen(&fenc)?&fenc:&enc}]   " encoding
 set statusline+=%10((%l,%c)%)\                 " line and column
 set statusline+=%P                             " percentage of file
+set wildcharm=<C-Z>
 
 filetype plugin indent on
 
 let mapleader=' '
-source ~/.vim/utils.vim
-let MYVIMSHORTCUTS = '~/.vim/shortcuts-slides.vim'
-call SafeSource(MYVIMSHORTCUTS)
+
+nnoremap : ;
+nnoremap ; :
+nnoremap <leader>s :bnext<CR>
+nnoremap <leader>a :bprevious<CR>
