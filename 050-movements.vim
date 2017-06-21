@@ -3,6 +3,8 @@
 
 "                                   Movements:
 
+" To be done in NORMAL mode.
+
 "                                       gg
 "                                   control-b
 "                                   control-u
