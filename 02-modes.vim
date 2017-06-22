@@ -13,6 +13,7 @@
 
 " - Command line
 "   * Enter with :
+"   * example: :w, :q, :wa, :wqa...
 
 " - Ex
 "   * Enter with Q
