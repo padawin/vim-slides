@@ -13,3 +13,6 @@ set incsearch
 set hlsearch
 set ignorecase
 set smartcase
+
+" Use n to reach next search result,
+" Use N to reach previous search result.
