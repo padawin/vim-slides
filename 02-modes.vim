@@ -6,10 +6,12 @@
 " - Normal
 
 " - Insert
-"   * Enter with a, s, r, i, o, c
+"   * Enter with a, s, i, o, c
+"   * Escape/<c-c>/<c-[> to go back in normal
 
 " - Visual
 "   * Enter with v
+"   * Escape to go back in normal
 
 " - Command line
 "   * Enter with :
