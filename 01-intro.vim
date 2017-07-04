@@ -11,3 +11,4 @@
 " - Grammar                                                     060-grammar.vim
 " - Search, Replace                                              071-search.vim
 " - Repeat movements and actions                    08-repeat-moves-actions.vim
+" - Working with multiple files                           09-multiple-files.vim
