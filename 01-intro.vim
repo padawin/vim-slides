@@ -10,4 +10,4 @@
 " - Movements                                                 050-movements.vim
 " - Grammar                                                     060-grammar.vim
 " - Search, Replace                                              071-search.vim
-" - Repeat movements and actions
+" - Repeat movements and actions                    08-repeat-moves-actions.vim
