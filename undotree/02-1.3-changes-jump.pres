@@ -1,11 +1,11 @@
 # 02-1.3
-								  Problematics
+                                # Problematics #
 
-						   Go back to specific change
+                         # Go back to specific change #
 
 
     How to go back to a specific change in the past?
 
-	Continuously pressing `u`?
+    Continuously pressing `u`?
 
-	Change index in message bar: `:u {N}`
+    Change index in message bar: `:u {N}`
