@@ -1,15 +1,15 @@
 # 02-2.5
-								  Problematics
+                                # Problematics #
 
-								Go to savepoint
+                              # Go to savepoint #
 
 
     How to undo all changes until last save?
 
-	Quit the file and reopen it? Ok but be sure to not do `:wq` ;-)
+    Quit the file and reopen it? Ok but be sure to not do `:wq` ;-)
 
-	Still, awkward.
+    Still, awkward.
 
-	Undo until the status line indicates no changes?
+    Undo until the status line indicates no changes?
 
-	Awkward too.
+    Awkward too.

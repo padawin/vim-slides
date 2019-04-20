@@ -1,13 +1,13 @@
 # 03-2
 
 
-									  Demo
+                                    # Demo #
 
 
     `:UndotreeShow`
 
-	`:UndotreeHide`
+    `:UndotreeHide`
 
     `:UndotreeToggle`
 
-	`:UndotreeFocus`
+    `:UndotreeFocus`
