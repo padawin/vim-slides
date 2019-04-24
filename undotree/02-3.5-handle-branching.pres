@@ -1,0 +1,15 @@
+# 02-3.5
+                               ## Problematics ##
+
+                              # Handle branching #
+
+
+    Branch: Do a change `A`, undo it, do another change `B`
+
+    How to go back to A?
+
+    Look at the changes numbers in message bar, `A` is skipped
+
+    Use `:u {number-of-A}`
+
+    Easy for last change, but what about older changes? Hard to visualise.
