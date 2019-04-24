@@ -8,7 +8,7 @@
 
     Undo the last change. Goes one position back in modifications history.
 
-* the CTRL-R key
+* the `CTRL-R` key
 
     Redo the next change in the changes history.
 
